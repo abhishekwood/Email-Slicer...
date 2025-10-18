@@ -1,6 +1,5 @@
 # Email Slicer
-welcome to email - slicer...
-
+A well defined Email slicing programme using python language.
 ## Description
 This is a simple yet robust Python script that takes an email address as input and splits it into its two core components: the username and the domain. It includes validation to ensure the input follows standard email formatting rules, making it a great beginner project for practicing string manipulation and conditional logic in Python.
 
